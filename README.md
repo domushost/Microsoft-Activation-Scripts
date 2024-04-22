@@ -21,6 +21,10 @@
     ```
     irm https://massgrave.dev/get | iex
     ```
+    or create your own get.ps1 file based on 
+    ```
+    https://github.com/domushost/Microsoft-Activation-Scripts/blob/master/get.ps1
+    ```
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
 
